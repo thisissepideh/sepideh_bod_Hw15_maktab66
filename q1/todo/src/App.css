@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+.app {
+  font-family: 'Tajawal', sans-serif;
+  padding: 30px;
+  background-color: floralwhite;
+}
+
+.todo {
+  font-family: 'Tajawal', sans-serif;
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
